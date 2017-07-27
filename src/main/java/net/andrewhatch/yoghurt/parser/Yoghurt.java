@@ -1,8 +1,8 @@
-package net.andrewhatch.java8antlr4.parser;
+package net.andrewhatch.yoghurt.parser;
 
 import com.google.inject.Guice;
 
-import net.andrewhatch.java8antlr4.parser.interpreter.Parser;
+import net.andrewhatch.yoghurt.parser.interpreter.Parser;
 
 import java.io.IOException;
 import java.io.InputStream;

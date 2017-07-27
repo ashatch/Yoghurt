@@ -1,6 +1,6 @@
-package net.andrewhatch.java8antlr4.parser.handlers;
+package net.andrewhatch.yoghurt.parser.handlers;
 
-import net.andrewhatch.java8antlr4.parser.interpreter.network.SocketHandler;
+import net.andrewhatch.yoghurt.parser.interpreter.network.SocketHandler;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

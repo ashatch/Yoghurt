@@ -1,8 +1,8 @@
-package net.andrewhatch.java8antlr4.parser.interpreter;
+package net.andrewhatch.yoghurt.parser.interpreter;
 
 
-import net.andrewhatch.java8antlr4.YoghurtLexer;
-import net.andrewhatch.java8antlr4.YoghurtParser;
+import net.andrewhatch.yoghurt.YoghurtLexer;
+import net.andrewhatch.yoghurt.YoghurtParser;
 
 import org.antlr.v4.runtime.ANTLRInputStream;
 import org.antlr.v4.runtime.CommonTokenStream;

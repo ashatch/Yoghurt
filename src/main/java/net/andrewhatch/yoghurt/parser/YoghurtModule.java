@@ -1,4 +1,4 @@
-package net.andrewhatch.java8antlr4.parser;
+package net.andrewhatch.yoghurt.parser;
 
 import com.google.inject.AbstractModule;
 import com.google.inject.Provides;

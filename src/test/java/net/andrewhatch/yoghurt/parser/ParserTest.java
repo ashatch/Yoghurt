@@ -1,8 +1,8 @@
-package net.andrewhatch.java8antlr4.parser;
+package net.andrewhatch.yoghurt.parser;
 
 import com.google.common.io.Resources;
 
-import net.andrewhatch.java8antlr4.parser.interpreter.Parser;
+import net.andrewhatch.yoghurt.parser.interpreter.Parser;
 
 import org.junit.Test;
 

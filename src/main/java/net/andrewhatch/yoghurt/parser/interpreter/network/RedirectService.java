@@ -1,4 +1,4 @@
-package net.andrewhatch.java8antlr4.parser.interpreter.network;
+package net.andrewhatch.yoghurt.parser.interpreter.network;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

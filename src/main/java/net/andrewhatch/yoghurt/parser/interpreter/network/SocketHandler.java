@@ -1,4 +1,4 @@
-package net.andrewhatch.java8antlr4.parser.interpreter.network;
+package net.andrewhatch.yoghurt.parser.interpreter.network;
 
 import java.io.IOException;
 import java.net.Socket;
