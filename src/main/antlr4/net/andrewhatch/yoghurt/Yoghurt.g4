@@ -43,7 +43,7 @@ portNumber
     : IntegerNumber
     ;
 
-StringConstant : '\''  ~[\'\n]+? '\'' ;
+StringConstant : '\''  ~[\\'\n]+? '\'' ;
 Identifier : [a-z][a-z]*;
 IntegerNumber : [0-9]+;
 LineEnding : ';';
